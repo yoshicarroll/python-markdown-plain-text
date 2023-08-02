@@ -10,7 +10,7 @@ Renders Markdown a document as plain text without a need to render it into HTML 
 using pip
 
 ```
-pip install -e "git+https://github.com/kostyachum/python-markdown-plain-text.git#egg=plain-text-markdown-extention"
+pip install -e "git+https://github.com/yoshicarroll/python-markdown-plain-text.git#egg=plain-text-markdown-extention"
 ```
 
 
